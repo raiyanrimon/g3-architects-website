@@ -256,4 +256,7 @@ padding: 20px 10px 20px 10px;
     .sponsors-img-container, .features {
         flex-direction: column;
     }
+    footer{
+        margin: 0;
+    }
 }
